@@ -30,15 +30,31 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="49%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreya-Jayaraj&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreya-Jayaraj&show_icons=true&theme=tokyonight&count_private=true&hide=issues" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=Shreya-Jayaraj&theme=tokyonight&hide_border=false" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-Jayaraj&layout=compact&theme=tokyonight&langs_count=6" width="50%"/>
+</p>
+
+---
+
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya-Jayaraj&theme=github-compact" width="95%"/>
 </p>
 
 ---
