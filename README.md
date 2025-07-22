@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Melon 🍉</h1>
+<h1 align="center">Hey there! 👋 I'm Shreya Jayraj </h1>
 
 <p align="center">
   🎓 CS Undergrad | 🖥️ Full-Stack Dev | 🛠️ Django & React Enthusiast | 🌏 Tech for Good  
