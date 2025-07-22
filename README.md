@@ -10,8 +10,7 @@
 
 - 🔭 I’m currently building **tools that make life easier**
 - 🧠 I love solving real-world problems with **Python & logic**
-- 🧵 I build with care, query with precision, and debug like Sherlock Holmes 🕵️‍♂️
-- 💬 Ask me about **APIs, databases, or how to survive hackathons**
+- 💬 Ask me about **APIs, database architecture or security implementation**
 
 ---
 
@@ -47,14 +46,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-Jayaraj&layout=compact&theme=tokyonight&langs_count=6" width="50%"/>
-</p>
-
----
-
-### 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya-Jayaraj&theme=github-compact" width="95%"/>
 </p>
 
 ---
