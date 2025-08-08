@@ -41,7 +41,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shreya-Jayaraj&show_icons=true&theme=tokyonight&count_private=true&hide=issues" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=Shreya-Jayaraj&theme=tokyonight&hide_border=false" width="49%"/>
 </p>
 
 <p align="center">
